@@ -1,12 +1,12 @@
 # Google Clone using React
 
 ### Demo 
-![Capture](https://user-images.githubusercontent.com/83405310/175789142-d35fd1be-f421-466f-9236-964c9df124fd.PNG)
+![Capture](https://user-images.githubusercontent.com/83405310/175789367-4b8557a1-32fd-433a-89e5-72f7c625c785.PNG)
 
 ### Tools
 React.js
 Node.js
-Tailwind CSS
+Tailwind-CSS
 Rapid API
 
 ### To Run the App 
