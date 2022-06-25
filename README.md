@@ -1,7 +1,8 @@
 # Google Clone using React
 
 ### For Demo 
-  Check out this [link](https://googleclone-reactjs.netlify.app/).
+**Make minimum possible requests for Rapid API's hard limit is 50 requests/month!**
+Check out this [link](https://googleclone-reactjs.netlify.app/).
 
 ### To Run the App 
 1. Clone the repository
