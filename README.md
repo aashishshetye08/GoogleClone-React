@@ -4,9 +4,9 @@
 ![Capture](https://user-images.githubusercontent.com/83405310/175789142-d35fd1be-f421-466f-9236-964c9df124fd.PNG)
 
 ### Tools
-React.
-Node.
-Tailwind CSS.
+React.js
+Node.js
+Tailwind CSS
 Rapid API
 
 ### To Run the App 
