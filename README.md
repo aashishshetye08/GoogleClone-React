@@ -1,9 +1,7 @@
 # Google Clone using React
 
-
-## For Demo 
+### For Demo 
   Check out this [link](https://googleclone-reactjs.netlify.app/).
-
 
 ## To Run the App 
 1. Clone the repository
@@ -13,7 +11,6 @@
 5. Open the terminal where you have saved the project.
 6. run: 
   `npm i && npm start` 
-
 
 ## For Tutorial
 Watch this [JavaScript Mastery](https://youtu.be/NDbruK1fzG8) Youtube Video.
