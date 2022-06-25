@@ -3,7 +3,7 @@
 ### For Demo 
   Check out this [link](https://googleclone-reactjs.netlify.app/).
 
-## To Run the App 
+### To Run the App 
 1. Clone the repository
 2. Subscribe the `Basic` pack of [Google API](https://rapidapi.com/standingapi-standingapi-default/api/1mdb-data-searching/pricing).
 3. `Test the Endpoints` [here](https://rapidapi.com/standingapi-standingapi-default/api/1mdb-data-searching/).
@@ -12,5 +12,5 @@
 6. run: 
   `npm i && npm start` 
 
-## For Tutorial
+### For Tutorial
 Watch this [JavaScript Mastery](https://youtu.be/NDbruK1fzG8) Youtube Video.
