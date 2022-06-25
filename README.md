@@ -1,6 +1,6 @@
 # Google Clone using React
 
-## For Demo [https://googleclone-reactjs.netlify.app/]
+## For Demo [https://googleclone-reactjs.netlify.app/](https://googleclone-reactjs.netlify.app/).
 
 ## To Run the App 
 1. Clone the repository
