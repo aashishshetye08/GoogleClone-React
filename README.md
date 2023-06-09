@@ -18,5 +18,3 @@ Rapid-API
 2. `Test the Endpoints` [here](https://rapidapi.com/standingapi-standingapi-default/api/1mdb-data-searching/).
 3. From the code snippet, copy the `X-RapidAPI-Key` code & paste it in `./src/context/ResultContextProvider.jsx` `line-19` by overriding the given key.
 
-### Tutorial
-Watch this [JavaScript Mastery](https://youtu.be/NDbruK1fzG8) Youtube Video.
